@@ -1,7 +1,7 @@
 # Math formulas
-## Area
+### Area
 - Circle: S = πR²
-- Rectangle: S = ab
+- Rectangle: S = ab 
 - Square: S = a²
 
 ## Perimeter
